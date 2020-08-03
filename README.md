@@ -17,4 +17,7 @@ https://itnext.io/ci-cd-as-a-code-for-net-core-application-and-kubernetes-using-
 Creating a CI/CD pipeline with Azure Pipelines and Google Kubernetes Engine
 https://cloud.google.com/solutions/creating-cicd-pipeline-vsts-kubernetes-engine
 
+dotnet build
+https://docs.microsoft.com/pt-br/dotnet/core/tools/dotnet-build
+
 
