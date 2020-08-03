@@ -11,6 +11,9 @@ https://docs.microsoft.com/en-us/azure/devops/pipelines/create-first-pipeline?WT
 YAML schema reference
 https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?WT.mc_id=-blog-shchowd&view=azure-devops&tabs=schema%2Cparameter-schema
 
+Use predefined variables
+https://docs.microsoft.com/en-us/azure/devops/pipelines/build/variables?WT.mc_id=-blog-shchowd&view=azure-devops&tabs=yaml
+
 CI/CD as a Code for .NET Core application and Kubernetes using Azure DevOps +YAML.
 https://itnext.io/ci-cd-as-a-code-for-net-core-application-and-kubernetes-using-azure-devops-yaml-26b3adeb8ace
 
